@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🏫 Student at UC Berkeley
 - 📫 How to reach me: taihong@berkeley.edu
 - 🐧 LinkedIn: https://www.linkedin.com/in/taihongxie/
 <!--
