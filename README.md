@@ -2,6 +2,7 @@
 - 🏫 Student at UC Berkeley
 - 📫 How to reach me: taihong@berkeley.edu
 - 🐧 LinkedIn: https://www.linkedin.com/in/taihongxie/
+- 📺 Bilibili: https://space.bilibili.com/15094572
 <!--
 **pxmkv/pxmkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
