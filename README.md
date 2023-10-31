@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📫 How to reach me: taihong@berkeley.edu
-
+- 🐧 LinkedIn: https://www.linkedin.com/in/taihongxie/
 <!--
 **pxmkv/pxmkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
