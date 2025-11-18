@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🏫 UC Berkeley
 - 📫 How to reach me: taihong@berkeley.edu
-- 🐧 LinkedIn: https://www.linkedin.com/in/taihongxie
 - 📺 Bilibili: https://space.bilibili.com/15094572
   
 <!--
