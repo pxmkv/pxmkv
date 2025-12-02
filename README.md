@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🏫 UC Berkeley
-- 📫 How to reach me: taihong@berkeley.edu
+- 📫 How to reach me: taylor_xie@berkeley.edu
 - 📺 Bilibili: https://space.bilibili.com/15094572
   
 <!--
